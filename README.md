@@ -21,21 +21,21 @@
 脚本安装命令
 
 ```bash
-curl -O https://raw.githubusercontent.com/jinwyp/one_click_script/master/trojan_v2ray_install.sh && chmod +x trojan_v2ray_install.sh && ./trojan_v2ray_install.sh
+curl -O https://raw.githubusercontent.com/PScamander/one_click_script/master/trojan_v2ray_install.sh && chmod +x trojan_v2ray_install.sh && ./trojan_v2ray_install.sh
 
 ```
 
 或
 
 ```bash
-wget --no-check-certificate https://raw.githubusercontent.com/jinwyp/one_click_script/master/trojan_v2ray_install.sh && chmod +x trojan_v2ray_install.sh && ./trojan_v2ray_install.sh
+wget --no-check-certificate https://raw.githubusercontent.com/PScamander/one_click_script/master/trojan_v2ray_install.sh && chmod +x trojan_v2ray_install.sh && ./trojan_v2ray_install.sh
 
 ```
 
 
 
 
-![功能说明](https://github.com/jinwyp/one_click_script/blob/master/docs/readme.png?raw=true)
+![功能说明](https://github.com/PScamander/one_click_script/blob/master/docs/readme.png?raw=true)
 
 
 ## 使用说明 Usage 
@@ -49,9 +49,9 @@ wget --no-check-certificate https://raw.githubusercontent.com/jinwyp/one_click_s
 
 
 6. 第一步安装 BBR plus 时出现的提示 "是否终止删除内核" 请选择 "NO". 就是要卸载掉目前的内核. 
-![注意 安装BBR plus](https://github.com/jinwyp/one_click_script/blob/master/docs/debian.jpg?raw=true)
-![注意 安装BBR plus](https://github.com/jinwyp/one_click_script/blob/master/docs/kernel.png?raw=true)
-![注意 安装BBR plus](https://github.com/jinwyp/one_click_script/blob/master/docs/ubuntu.png?raw=true)
+![注意 安装BBR plus](https://github.com/PScamander/one_click_script/blob/master/docs/debian.jpg?raw=true)
+![注意 安装BBR plus](https://github.com/PScamander/one_click_script/blob/master/docs/kernel.png?raw=true)
+![注意 安装BBR plus](https://github.com/PScamander/one_click_script/blob/master/docs/ubuntu.png?raw=true)
 
 
 ## 注意事项与常见问题 FAQ 
