@@ -1466,7 +1466,7 @@ function install_v2ray(){
     green "=========================================="
 
     v2rayVersion=$(getGithubLatestReleaseVersion2 "v2ray/v2ray-core")
-    bash <(curl -L -s https://install.direct/go.sh)
+    bash <(curl -L -s https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh)
 
     mkdir -p ${configV2rayPath}/
     cd ${configV2rayPath}
